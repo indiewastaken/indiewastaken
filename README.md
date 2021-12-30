@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @indiewastaken
+- 👀 I’m interested in discord.js
+- 🌱 I’m currently learning Python
